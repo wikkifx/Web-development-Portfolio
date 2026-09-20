@@ -13,6 +13,14 @@ I have successfully built and deployed numerous professional websites for **NetS
   This is for Netscore USA Software House.
 
 **Project 3 everyday wellness** - [Visit Live Website](https://www.everydaywellness-sc.com/)))
+  This is for Netscore USA Software House
+  **Project 3 emerald coastal wellness** - [Visit Live Website](https://emeraldcoastlongevity.com/)))
+  This is for Netscore USA Software House
+  **Project 3 Oak and sage** - [Visit Live Website](https://oakandsagewellnesscenter.com/)))
+  This is for Netscore USA Software House
+  **Project 3 mizon music** - [Visit Live Website](https://mixonmusiclosangeles.com/)))
+  This is for Netscore USA Software House
+  **Project 3 peptides associates** - [Visit Live Website](https://peptideassociates.com/wp-admin)))
   This is for Netscore USA Software House.
 
 **Contact Me**
