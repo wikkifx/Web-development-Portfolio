@@ -38,11 +38,10 @@ I have successfully built and deployed numerous professional websites for **NetS
 
   **Project 11 Remote Pepties Centerr** - [Visit Live Website](https://remotepeptidecenter.com/)))
   This is for Netscore USA Software House.
-
-  
   
   **Project 12 Genesis Health ** - [Visit Live Website](https://genesishealthperformance.com)))
   This is for Netscore USA Software House.
+  
 
 **Contact Me**
 Email: waqasatta12@gmail.com
