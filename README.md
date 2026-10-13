@@ -39,16 +39,19 @@ I have successfully built and deployed numerous professional websites for **NetS
   **Project 11 Remote Pepties Centerr** - [Visit Live Website](https://remotepeptidecenter.com/)))
   This is for Netscore USA Software House.
   
-  **Project 12 Genesis Health ** - [Visit Live Website](https://genesishealthperformance.com)))
+  **Project 12 Genesis Health** - [Visit Live Website](https://genesishealthperformance.com)))
   This is for Netscore USA Software House.
 
-   **Project 13 Restoration  ** - [Visit Live Website](https://restorationhealthgroupofthecarolinas.com/)))
+   **Project 13 Restoration** - [Visit Live Website](https://restorationhealthgroupofthecarolinas.com/)))
   This is for Netscore USA Software House.
 
-   **Project 14 Untold vitility   ** - [Visit Live Website](https://untoldvitalityclinic.com/)))
+   **Project 14 Untold vitility** - [Visit Live Website](https://untoldvitalityclinic.com/)))
+  This is for Netscore USA Software House.
+
+   **Project 15 Get Smart** - [Visit Live Website](https://getsmartweightlossandwellness.com/)))
   This is for Netscore USA Software House.
   
 
 **Contact Me**
-Email: waqasatta12@gmail.com
-Phone: 03466060444
+Email: **waqasatta12@gmail.com**
+Phone: **+923466060444**
