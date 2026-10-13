@@ -4,6 +4,38 @@ Welcome to my GitHub profile. I specialize in building responsive, high-performa
 
 I have successfully built and deployed numerous professional websites for **NetScore USA**, a software house specializing in premium wellness and medical service platforms. Below are some of the live, fully-functional web solutions I have developed:
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rank Math](https://img.shields.io/badge/Rank%20Math%20SEO-4C4CFF?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 💼 What I Offer
+
+<div align="center">
+
+| 🎨 Web Design | ⚙️ Development | 📈 SEO | ✍️ Copywriting |
+|:---:|:---:|:---:|:---:|
+| Modern, responsive UI | WordPress & WooCommerce | On-page & technical SEO | Conversion-focused copy |
+| Elementor custom layouts | Custom HTML/CSS/JS blocks | Rank Math optimization | Service & landing pages |
+
+</div>
+
+
+
 **My Live Projects**
 
 **Project 1 NOve Wellness Center** -[Visit Live Website](https://novahealthandwellnesscenter.com/))
